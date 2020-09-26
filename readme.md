@@ -15,5 +15,5 @@ Nas tim tvoria clenovia:
 1.Daniel Trizna
 2.Tomáš Kunzo
 3.Frederik Kohár
-4.
+4.Michal Slávik
 
